@@ -1,6 +1,6 @@
 <?php
 $data_nascimento = $_POST["Data de Nascimento"];
-$signos = $_POST = $_POST["Virgem, Libra, Escorpião, Sagitario, Capricornio, Aquario, Peixes"];
+$signos = $_POST = ["Virgem, Libra, Escorpião, Sagitario, Capricornio, Aquario, Peixes"];
 
 echo "Óla Mundo !";
     ?>
