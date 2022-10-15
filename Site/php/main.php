@@ -46,11 +46,23 @@ echo "Óla Mundo !";
 
 </signo>
 
+<signo>
+
+<dataInicio>21/04</dataInicio>
+
+<dataFim>20/05</dataFim>
+
 <signoNome>Capricornio</signoNome>
 
 <descricao>Lorem ipsum dolor sit amet.</descricao>
 
 </signo>
+
+<signo>
+
+<dataInicio>21/04</dataInicio>
+
+<dataFim>20/05</dataFim>
 
 <signoNome>Libra</signoNome>
 
@@ -58,11 +70,23 @@ echo "Óla Mundo !";
 
 </signo>
 
+<signo>
+
+<dataInicio>21/04</dataInicio>
+
+<dataFim>20/05</dataFim>
+
 <signoNome>Cancer</signoNome>
 
 <descricao>Lorem ipsum dolor sit amet.</descricao>
 
 </signo>
+
+<signo>
+
+<dataInicio>21/04</dataInicio>
+
+<dataFim>20/05</dataFim>
 
 <signoNome>Escorpião</signoNome>
 
@@ -70,11 +94,23 @@ echo "Óla Mundo !";
 
 </signo>
 
+<signo>
+
+<dataInicio>21/04</dataInicio>
+
+<dataFim>20/05</dataFim>
+
 <signoNome>Gemeos</signoNome>
 
 <descricao>Lorem ipsum dolor sit amet.</descricao>
 
 </signo>
+
+<signo>
+
+<dataInicio>21/04</dataInicio>
+
+<dataFim>20/05</dataFim>
 
 <signoNome>Leão</signoNome>
 
@@ -82,17 +118,23 @@ echo "Óla Mundo !";
 
 </signo>
 
+<signo>
+
+<dataInicio>21/04</dataInicio>
+
+<dataFim>20/05</dataFim>
+
 <signoNome>Peixes</signoNome>
 
 <descricao>Lorem ipsum dolor sit amet.</descricao>
 
 </signo>
 
-<signoNome>Peixes</signoNome>
+<signo>
 
-<descricao>Lorem ipsum dolor sit amet.</descricao>
+<dataInicio>21/04</dataInicio>
 
-</signo>
+<dataFim>20/05</dataFim>
 
 <signoNome>Sagitario</signoNome>
 
