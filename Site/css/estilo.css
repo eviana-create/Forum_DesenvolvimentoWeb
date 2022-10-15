@@ -50,24 +50,19 @@ div {
 */
 
 span {
-    color: white;
+
     font-size: 20px;
     line-height: 25px;
     float: left;
     position: absolute;
+    text-align: center;
     left: 0px;
     margin-left: 10px;
-    top: 200px;
-    text-align: center;
     width: 550px;
     height: 350px;
-    border-radius: 8px;
-    background-color: black;
-    width: 100%;
-    height: 100%;
-    left: 0px;
-    margin-left: 10px;
-    
+    width: 450px;
+    height: 550px;
+    top: 177px;    
 }
 
 #conteudo {
@@ -91,11 +86,14 @@ span {
 }
 
 header {
-    width: 100%;
+    width: 99%;
     height: 100vn;
     background-color: #ED3107;
     color: rgb(255, 255, 255);
     text-align: center;
+    position: absolute;
+    left: 0px;
+    margin-left: 10px;
     
 }
 
@@ -108,11 +106,12 @@ h2 {
 }
 
 form {
-    border-radius: 10px;
-    position: fixed;
+    border-radius: 5px;
+    position: absolute;
     background-color: #ED3107;
     margin: 45px;
-    margin-left: 280px;
+    margin-left: 180px;
+    width: 220px;
 }
 
 #box {
@@ -125,10 +124,11 @@ form {
 #mesAtual {
     margin: 0px;
     margin-bottom: 0px;
-    margin-left: 8px;
+    left: 0px;
+    margin-left: 45px;
     position: absolute;
     font: 18px arial normal;
     color: #ED3107;
-    margin-top: 200px;
+    margin-top: 250px;
     text-align: center;
 }

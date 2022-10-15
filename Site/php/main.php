@@ -1,5 +1,6 @@
 <?php
 $data_nascimento = $_POST["Data de Nascimento"];
+$mes_signo = $_POST["mes" => "Janeiro", "signo" => "Aquario", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"];
 $signos = $_POST = ["Virgem, Libra, Escorpião, Sagitario, Capricornio, Aquario, Peixes"];
 
 echo "Óla Mundo !";
