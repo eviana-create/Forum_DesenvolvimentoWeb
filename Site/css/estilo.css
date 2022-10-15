@@ -54,9 +54,7 @@ body {
     height: 100%;
     margin: 0px;
 }
-
 span {
-
     font-size: 20px;
     line-height: 25px;
     float: left;
@@ -133,7 +131,7 @@ form {
     border: 1px solid black;
     margin: 0px;
     margin-bottom: 0px;
-    padding: 10px;
+    padding: 30px 10px;
     left: 0px;
     margin-left: 70px;
     position: absolute;
